@@ -1,0 +1,3 @@
+/home/choko/CLionProjects/AddDaysToADate/cmake-build-debug/CMakeFiles/AddDaysToADate.dir
+/home/choko/CLionProjects/AddDaysToADate/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/choko/CLionProjects/AddDaysToADate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
